@@ -9,6 +9,7 @@ setup(name='dscore',
       license='CC0',
       packages=['dscore'],
       install_requires=[
+          'numpy',
           'pandas',
           'statsmodels'
       ],
