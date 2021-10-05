@@ -1,10 +1,12 @@
 D-score: the decomposed score method
 =============================================
 Models are essential to science, 
-and testing competing models of explaining the world is one of the most basic scientific activities.
+and testing competing models for explaining the world is one of the most basic scientific activities.
 Traditionally, the model that most closely reproduces reality is believed to be the most likely.
-But models are increasingly multi-faceted, in that they are used for multiple purposes or they were created by coupling together several models.
+But models are increasingly multi-faceted, in that they are used for multiple purposes or they were created by coupling together multiple models.
 How to balance competing interests within a single model is the main challenge that prompted us to create D-score.
+D-score...
+
 D-score is a method of decomposing models in order to understand different aspects of their performance.
 Once decomposed, the best components can be selected among the models and recombined to form an optimal ensemble prediction.
 
