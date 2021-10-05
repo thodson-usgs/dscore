@@ -2,7 +2,7 @@ D-score: the decomposed score method
 =============================================
 Models are essential to science, 
 and testing competing models of explaining the world is one of the most basic scientific activities.
-Traditionally, the model that most closely reproduces reality is taken as the best or most likely.
+Traditionally, the model that most closely reproduces reality is taken as the most likely.
 But models are becomming increasingly multi-faceted, either being used for multiple purposes or coupling several models into one.
 How do 
 D-score is a method of decomposing models in order to understand different aspects of their performance.
