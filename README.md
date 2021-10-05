@@ -2,12 +2,11 @@ D-score: the decomposed score method
 =============================================
 Models are essential to science, 
 and testing competing models of explaining the world is one of the most basic scientific activities.
-Traditionally, the model that most closely reproduces reality is taken as the most likely.
-But models are becomming increasingly multi-faceted, either being used for multiple purposes or coupling several models into one.
-How do 
+Traditionally, the model that most closely reproduces reality is believed to be the most likely.
+But models are increasingly multi-faceted, in that they are used for multiple purposes or they were created by coupling together several models.
+How to balance competing interests within a single model is the main challenge that prompted us to create D-score.
 D-score is a method of decomposing models in order to understand different aspects of their performance.
-Furthermore, it allows components 
-Not only that, once the best components are identified 
+Once decomposed, the best components can be selected among the models and recombined to form an optimal ensemble prediction.
 
 What is D-score?
 -----------------------
@@ -38,15 +37,12 @@ If you discover mistakes in this library or want to suggest improvements, raise 
 
 Quick start
 -----------
-D-score can be installed using pip:
-
-    $ python3 -m pip install -U dscore
-
-If you want to run the latest version of the code, you can install from git:
+Install the latest version of the code from github:
 
     $ python3 -m pip install -U git+git://github.com/USGS-python/dscore.git
     
- ```python
+
+```python
 import dscore
 ```   
 
