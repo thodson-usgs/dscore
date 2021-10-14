@@ -11,6 +11,7 @@ setup(name='dscore',
       install_requires=[
           'numpy',
           'pandas',
-          'statsmodels'
+          'statsmodels',
+          'seaborn'
       ],
       zip_safe=False)
