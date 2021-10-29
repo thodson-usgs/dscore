@@ -12,6 +12,7 @@ setup(name='dscore',
           'numpy',
           'pandas',
           'statsmodels',
-          'seaborn'
+          'seaborn',
+          'matplotlib'
       ],
       zip_safe=False)

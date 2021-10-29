@@ -11,7 +11,12 @@ On one hand, this is useful for determing which aspects of a model may require r
 but it also allows the modeler to separate out the best elements among several models and combine them as an ensemble,
 analogous to how an audio engineer mixes together multiple tracks to form the best rendition of a musical piece.
 
-For more information, refer to our article in JAMES (https:XXXXXXXXXXXX).
+For more information, refer to our article in JAMES (https:XXXXXXXXXXXX), or see our demonstration notebook in this repo.
+
+If you like the method and use it, please cite us in your work:
+
+Hodson, T.O., Over, T.M., and Foks, S.F. (expected 2021). Mean squared error, deconstructed.
+Journal of Advances in Modeling Earth Systems.
 
 
 Quick start
