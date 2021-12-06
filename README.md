@@ -11,11 +11,11 @@ On one hand, this is useful for determing which aspects of a model may require r
 but it also allows the modeler to separate out the best elements among several models and combine them as an ensemble,
 analogous to how an audio engineer mixes together multiple tracks to form the best rendition of a musical piece.
 
-For more information, refer to our article in JAMES (https:XXXXXXXXXXXX) and the notebooks in this repo.
+For more information, refer to our article in JAMES (https://doi.org/10.1029/2021MS002681) and the notebooks in this repo.
 
 If use d-score in your work, please cite us our paper:
 
-Hodson, T.O., Over, T.M., and Foks, S.F. (expected 2021). Mean squared error, deconstructed.
+Hodson, T.O., Over, T.M., and Foks, S.F. (2021). Mean squared error, deconstructed.
 Journal of Advances in Modeling Earth Systems.
 
 
